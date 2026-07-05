@@ -1,0 +1,142 @@
+F:\E Soft\Uni Wipe\Uni Wipe WPF\TaskBarIcon\bin\Debug\UNI-ICON.ico
+F:\E Soft\Uni Wipe\Uni Wipe WPF\TaskBarIcon\bin\Debug\TaskBarIcon.exe.config
+F:\E Soft\Uni Wipe\Uni Wipe WPF\TaskBarIcon\bin\Debug\TaskBarIcon.exe
+F:\E Soft\Uni Wipe\Uni Wipe WPF\TaskBarIcon\bin\Debug\TaskBarIcon.pdb
+F:\E Soft\Uni Wipe\Uni Wipe WPF\TaskBarIcon\bin\Debug\Uni Wipe WPF.exe
+F:\E Soft\Uni Wipe\Uni Wipe WPF\TaskBarIcon\bin\Debug\Uni Wipe WPF.pdb
+F:\E Soft\Uni Wipe\Uni Wipe WPF\TaskBarIcon\obj\Debug\TaskBarIcon.csprojResolveAssemblyReference.cache
+F:\E Soft\Uni Wipe\Uni Wipe WPF\TaskBarIcon\obj\Debug\MainWindow.g.cs
+F:\E Soft\Uni Wipe\Uni Wipe WPF\TaskBarIcon\obj\Debug\App.g.cs
+F:\E Soft\Uni Wipe\Uni Wipe WPF\TaskBarIcon\obj\Debug\TaskBarIcon_MarkupCompile.cache
+F:\E Soft\Uni Wipe\Uni Wipe WPF\TaskBarIcon\obj\Debug\TaskBarIcon_MarkupCompile.lref
+F:\E Soft\Uni Wipe\Uni Wipe WPF\TaskBarIcon\obj\Debug\MainWindow.baml
+F:\E Soft\Uni Wipe\Uni Wipe WPF\TaskBarIcon\obj\Debug\TaskBarIcon.g.resources
+F:\E Soft\Uni Wipe\Uni Wipe WPF\TaskBarIcon\obj\Debug\TaskBarIcon.Properties.Resources.resources
+F:\E Soft\Uni Wipe\Uni Wipe WPF\TaskBarIcon\obj\Debug\TaskBarIcon.csproj.GenerateResource.Cache
+F:\E Soft\Uni Wipe\Uni Wipe WPF\TaskBarIcon\obj\Debug\TaskBarIcon.exe
+F:\E Soft\Uni Wipe\Uni Wipe WPF\TaskBarIcon\obj\Debug\TaskBarIcon.pdb
+F:\Uni Wipe\Uni Wipe WPF\TaskBarIcon\obj\Debug\MainWindow.g.cs
+F:\Uni Wipe\Uni Wipe WPF\TaskBarIcon\obj\Debug\App.g.cs
+F:\Uni Wipe\Uni Wipe WPF\TaskBarIcon\obj\Debug\TaskBarIcon_MarkupCompile.cache
+F:\Uni Wipe\Uni Wipe WPF\TaskBarIcon\obj\Debug\TaskBarIcon_MarkupCompile.lref
+F:\Uni Wipe\Uni Wipe WPF\TaskBarIcon\bin\Debug\UNI-ICON.ico
+F:\Uni Wipe\Uni Wipe WPF\TaskBarIcon\bin\Debug\TaskBarIcon.exe.config
+F:\Uni Wipe\Uni Wipe WPF\TaskBarIcon\bin\Debug\TaskBarIcon.exe
+F:\Uni Wipe\Uni Wipe WPF\TaskBarIcon\bin\Debug\TaskBarIcon.pdb
+F:\Uni Wipe\Uni Wipe WPF\TaskBarIcon\bin\Debug\Uni Wipe WPF.exe
+F:\Uni Wipe\Uni Wipe WPF\TaskBarIcon\bin\Debug\Uni Wipe WPF.pdb
+F:\Uni Wipe\Uni Wipe WPF\TaskBarIcon\obj\Debug\TaskBarIcon.csprojResolveAssemblyReference.cache
+F:\Uni Wipe\Uni Wipe WPF\TaskBarIcon\obj\Debug\MainWindow.baml
+F:\Uni Wipe\Uni Wipe WPF\TaskBarIcon\obj\Debug\TaskBarIcon.g.resources
+F:\Uni Wipe\Uni Wipe WPF\TaskBarIcon\obj\Debug\TaskBarIcon.Properties.Resources.resources
+F:\Uni Wipe\Uni Wipe WPF\TaskBarIcon\obj\Debug\TaskBarIcon.csproj.GenerateResource.Cache
+F:\Uni Wipe\Uni Wipe WPF\TaskBarIcon\obj\Debug\TaskBarIcon.exe
+F:\Uni Wipe\Uni Wipe WPF\TaskBarIcon\obj\Debug\TaskBarIcon.pdb
+F:\Uni Wipe\Uni Wipe WPF\TaskBarIcon\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+F:\Uni Wipe\Uni Wipe WPF\TaskBarIcon\bin\Debug\Microsoft.WindowsAPICodePack.dll
+F:\Uni Wipe\Uni Wipe WPF\TaskBarIcon\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+F:\Uni Wipe\Uni Wipe WPF\TaskBarIcon\bin\Debug\Microsoft.WindowsAPICodePack.xml
+F:\E Soft\Uni Wipe\Uni Wipe WPF\TaskBarIcon\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+F:\E Soft\Uni Wipe\Uni Wipe WPF\TaskBarIcon\bin\Debug\Microsoft.WindowsAPICodePack.dll
+F:\E Soft\Uni Wipe\Uni Wipe WPF\TaskBarIcon\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+F:\E Soft\Uni Wipe\Uni Wipe WPF\TaskBarIcon\bin\Debug\Microsoft.WindowsAPICodePack.xml
+E:\DataSanitix\Uni Wipe WPF\TaskBarIcon\bin\Debug\UNI-ICON.ico
+E:\DataSanitix\Uni Wipe WPF\TaskBarIcon\bin\Debug\TaskBarIcon.exe.config
+E:\DataSanitix\Uni Wipe WPF\TaskBarIcon\bin\Debug\TaskBarIcon.exe
+E:\DataSanitix\Uni Wipe WPF\TaskBarIcon\bin\Debug\TaskBarIcon.pdb
+E:\DataSanitix\Uni Wipe WPF\TaskBarIcon\bin\Debug\Uni Wipe WPF.exe
+E:\DataSanitix\Uni Wipe WPF\TaskBarIcon\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+E:\DataSanitix\Uni Wipe WPF\TaskBarIcon\bin\Debug\Microsoft.WindowsAPICodePack.dll
+E:\DataSanitix\Uni Wipe WPF\TaskBarIcon\bin\Debug\Uni Wipe WPF.pdb
+E:\DataSanitix\Uni Wipe WPF\TaskBarIcon\bin\Debug\Uni Wipe WPF.exe.config
+E:\DataSanitix\Uni Wipe WPF\TaskBarIcon\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+E:\DataSanitix\Uni Wipe WPF\TaskBarIcon\bin\Debug\Microsoft.WindowsAPICodePack.xml
+E:\DataSanitix\Uni Wipe WPF\TaskBarIcon\obj\Debug\TaskBarIcon.csproj.AssemblyReference.cache
+E:\DataSanitix\Uni Wipe WPF\TaskBarIcon\obj\Debug\MainWindow.g.cs
+E:\DataSanitix\Uni Wipe WPF\TaskBarIcon\obj\Debug\App.g.cs
+E:\DataSanitix\Uni Wipe WPF\TaskBarIcon\obj\Debug\TaskBarIcon_MarkupCompile.cache
+E:\DataSanitix\Uni Wipe WPF\TaskBarIcon\obj\Debug\TaskBarIcon_MarkupCompile.lref
+E:\DataSanitix\Uni Wipe WPF\TaskBarIcon\obj\Debug\MainWindow.baml
+E:\DataSanitix\Uni Wipe WPF\TaskBarIcon\obj\Debug\TaskBarIcon.g.resources
+E:\DataSanitix\Uni Wipe WPF\TaskBarIcon\obj\Debug\TaskBarIcon.Properties.Resources.resources
+E:\DataSanitix\Uni Wipe WPF\TaskBarIcon\obj\Debug\TaskBarIcon.csproj.GenerateResource.cache
+E:\DataSanitix\Uni Wipe WPF\TaskBarIcon\obj\Debug\TaskBarIcon.csproj.CoreCompileInputs.cache
+E:\DataSanitix\Uni Wipe WPF\TaskBarIcon\obj\Debug\TaskBarI.5340B2FC.Up2Date
+E:\DataSanitix\Uni Wipe WPF\TaskBarIcon\obj\Debug\TaskBarIcon.exe
+E:\DataSanitix\Uni Wipe WPF\TaskBarIcon\obj\Debug\TaskBarIcon.pdb
+E:\DataSanitix\DataSanitix\TaskBarIcon\bin\Debug\DataSanitix.1.0.0.0.Fakes.dll
+E:\DataSanitix\DataSanitix\TaskBarIcon\bin\Debug\TaskBarIcon.exe.config
+E:\DataSanitix\DataSanitix\TaskBarIcon\bin\Debug\TaskBarIcon.exe
+E:\DataSanitix\DataSanitix\TaskBarIcon\bin\Debug\TaskBarIcon.pdb
+E:\DataSanitix\DataSanitix\TaskBarIcon\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\DataSanitix\DataSanitix\TaskBarIcon\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\DataSanitix\DataSanitix\TaskBarIcon\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\DataSanitix\DataSanitix\TaskBarIcon\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\DataSanitix\DataSanitix\TaskBarIcon\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\DataSanitix\DataSanitix\TaskBarIcon\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\DataSanitix\DataSanitix\TaskBarIcon\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\DataSanitix\DataSanitix\TaskBarIcon\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\DataSanitix\DataSanitix\TaskBarIcon\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\DataSanitix\DataSanitix\TaskBarIcon\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\DataSanitix\DataSanitix\TaskBarIcon\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\DataSanitix\DataSanitix\TaskBarIcon\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\DataSanitix\DataSanitix\TaskBarIcon\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\DataSanitix\DataSanitix\TaskBarIcon\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\DataSanitix\DataSanitix\TaskBarIcon\bin\Debug\DataSanitix.1.0.0.0.Fakes.fakesconfig
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\TaskBarIcon.csproj.AssemblyReference.cache
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\MainWindow.g.cs
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\App.g.cs
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\TaskBarIcon_Content.g.cs
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\TaskBarIcon_MarkupCompile.cache
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\TaskBarIcon_MarkupCompile.lref
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\MainWindow.baml
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\TaskBarIcon.g.resources
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\TaskBarIcon.csprojFakesResolveAssemblyReference.cache
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\TaskBarIcon.Properties.Resources.resources
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\TaskBarIcon.csproj.GenerateResource.cache
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\TaskBarIcon.csproj.CoreCompileInputs.cache
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\TaskBarI.5340B2FC.Up2Date
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\TaskBarIcon.exe
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\TaskBarIcon.pdb
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\ds\b\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\ds\b\DataSanitix.1.0.0.0.Fakes.dll
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\ds\b\DataSanitix.1.0.0.0.Fakes.fakesconfig
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\ds\b\DataSanitix.1.0.0.0.Fakes.pdb
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\ds\b\DataSanitix.1.0.0.0.Fakes.xml
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\ds\b\DataSanitix.exe
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\ds\b\DataSanitix.exe.config
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\ds\b\DataSanitix.pdb
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\ds\b\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\ds\b\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\ds\b\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\ds\b\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\ds\b\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\ds\b\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\ds\b\Microsoft.QualityTools.Testing.Fakes.dll
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\ds\b\Microsoft.WindowsAPICodePack.dll
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\ds\b\Microsoft.WindowsAPICodePack.Shell.dll
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\ds\b\Microsoft.WindowsAPICodePack.Shell.xml
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\ds\b\Microsoft.WindowsAPICodePack.xml
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\ds\b\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\ds\b\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\ds\b\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\ds\b\TaskBarIcon.exe
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\ds\b\TaskBarIcon.exe.config
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\ds\b\TaskBarIcon.pdb
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\ds\b\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\ds\b\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\ds\b\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\ds\f.ah
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\ds\f.ch
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\ds\f.cs
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\ds\f.csproj
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\ds\f.fakes
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\ds\f.fakesconfig
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\ds\o\.NETFramework,Version=v4.8.AssemblyAttributes.cs
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\ds\o\DataSanitix.1.0.0.0.Fakes.dll
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\ds\o\DataSanitix.1.0.0.0.Fakes.pdb
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\ds\o\f.csproj.AssemblyReference.cache
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\ds\o\f.csproj.CoreCompileInputs.cache
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\ds\o\f.csproj.FileListAbsolute.txt
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\ds\o\f.csproj.Up2Date
+E:\DataSanitix\DataSanitix\TaskBarIcon\obj\Debug\Fakes\fakes.args
